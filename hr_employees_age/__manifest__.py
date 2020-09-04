@@ -28,7 +28,7 @@
     'category': 'Human Resources',
     'description':"""Display Employees Age on Employee Form""",
     'summary': 'odoo Apps will help to add Employees Age on Employee module', 
-    'author': 'Ananthu Krishna',
+    'author': 'CodersFort',
     'website': 'http://www.codersfort.com',
     'maintainer': 'Ananthu Krishna',
     'depends': ['hr'],
